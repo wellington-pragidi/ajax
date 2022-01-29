@@ -3,6 +3,7 @@
 
 <p>Modo de usar:</p>
 
+<pre>
 <script> 
 new Ajax({ 
 	form: "#id_form", 
@@ -12,6 +13,7 @@ new Ajax({
 	call: "#response" 
 }); 
 </script>
+</pre>
 <ul>
 	<li>form: O id ou classe da tag form</li>
 	<li>event: submit, change, input, click, keyup, etc..</li>

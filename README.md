@@ -1,0 +1,2 @@
+# ajax
+Simples função XMLHttpRequest
